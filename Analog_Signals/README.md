@@ -1,4 +1,4 @@
-Analog Signals Activity
+ANALOG SIGNALS ACTIVTY
 
 This folder contains an Arduino project that controls LED brightness using Pulse Width Modulation (PWM). The LEDs light up one by one and then turn off in reverse order.
 
