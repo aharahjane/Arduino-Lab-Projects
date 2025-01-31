@@ -16,7 +16,7 @@ How It Works:
 
 Instructions: 
 1. Upload Arduino Code
-  1. Open Light_Arduino.ino in the Arduino IDE.
-  2. Connect the Arduino and upload the code.
+- Open Light_Arduino.ino in the Arduino IDE.
+- Connect the Arduino and upload the code.
 
 2. Run FastAPI Server
