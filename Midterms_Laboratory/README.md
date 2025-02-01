@@ -1,6 +1,6 @@
 This system uses a light sensor to detect how bright or dark the environment is and turns on a specific LED based on the light level. It can automatically adjust to changing light conditions or allow the user to manually set light thresholds.
 
-Objective:
+Objective: 
 The goal is to create a simple system that provides visual feedback using LEDs to show the current light level, with the flexibility for the user to adjust the settings through easy commands.
 
 How it Works:
